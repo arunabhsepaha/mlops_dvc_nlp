@@ -1,0 +1,21 @@
+### dependency
+# tqdm
+# dvc
+# pandas
+# numpy
+# PyYAML
+
+### local packages -
+# -e . # << uncomment this to install from setup.py
+### dependency
+tqdm
+dvc
+dvc[s3]
+pandas
+numpy
+Scipy
+pyyaml
+scikit-learn
+lxml
+botocore
+-e .
