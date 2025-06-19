@@ -1,1 +1,1 @@
-# mlops_dvc_demo
+# mlops_dvc_nlp_demo_project
